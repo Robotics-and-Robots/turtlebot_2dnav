@@ -8,4 +8,6 @@ TrajectoryPlannerROS:
   acc_lim_x: 2.5
   acc_lim_y: 2.5
 
+  meter_scoring: false
+
   holonomic_robot: false
